@@ -17,7 +17,7 @@ Registry key values and commands in this script are based on:
 - https://learn.microsoft.com/en-us/answers/questions/610602/disable-windows-11-file-context-menu
 
 
-installation
+Installation
 ------------
 
 Make sure you are using this script on Windows 11 only.  
